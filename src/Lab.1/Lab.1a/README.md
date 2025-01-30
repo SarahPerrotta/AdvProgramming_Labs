@@ -4,7 +4,7 @@ This initial exercise gives you some practice of compiling and running code from
 
 • Open a text editor (e.g. notepad++, VS Code, nano) and write a short Java programme with a main method that prints Hello World. e.g.
  
- '''
+```java
  public class HelloWorld {
   
     public static void main(String[] args) {
@@ -14,7 +14,7 @@ This initial exercise gives you some practice of compiling and running code from
         }
         
   }
-  
+  ```
 • Save this is as a file called HelloWorld.java.
 
 • Open a command prompt.
