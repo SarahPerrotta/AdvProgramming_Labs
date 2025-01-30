@@ -1,4 +1,5 @@
 **Exercise 1a: Compiling**
+
 This initial exercise gives you some practice of compiling and running code from the command line.
 • Open a text editor (e.g. notepad++, VS Code, nano) and write a short Java programme with a main method
 that prints Hello World. e.g.
