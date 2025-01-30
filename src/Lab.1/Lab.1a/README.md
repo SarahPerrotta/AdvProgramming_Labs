@@ -4,8 +4,9 @@ This initial exercise gives you some practice of compiling and running code from
 
 • Open a text editor (e.g. notepad++, VS Code, nano) and write a short Java programme with a main method that prints Hello World. e.g.
  
-  public class HelloWorld {
-    
+ '''
+ public class HelloWorld {
+  
     public static void main(String[] args) {
       
       System.out.println("Hello, World!");
